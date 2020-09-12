@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Bug Fables</string>
+    <string name="article_subtitle">The Everlasting Sapling</string>
+    <string name="article_text"><b><i>Bug Fables: The Everlasting Sapling</i></b> is an adventure RPG following the story of Vi, Kabbu, and Leif as they search Bugaria for the Everlasting Sapling, a treasure said to grant immortality.
+        \n
+        It was developed by Moonsprout Games and published by DANGEN Entertainment.
+        \n
+        It first released on Steam (PC) on November 21, 2019. The console release date was May 28, 2020, for the Nintendo Switch, PlayStation, and Xbox One consoles.
+        \n
+        The IndieGoGo campaign raised $24,690 USD, meeting 123% percent of its goal, with 627 backers.
+        \n\n
+        <b>Gameplay</b>
+        \n
+        Players explore the vast lands of Bugaria, playing as three main characters: Vi the bee, Kabbu the beetle, and Leif the moth. Each character has their own set of unique Field Skills, which can be used to solve puzzles in the overworld. Coming into contact with an enemy will start a turn-based battle, in which players utilize timed button presses to power up moves or block attacks from enemies. The party can spend Teamwork Points (TP) for stronger attacks, or use Medal Points (MP) to equip medals, which can grant special abilities. Winning a battle grants Exploration Points (EP), which allow the party to rank up, and choose whether to upgrade their HP, TP, or MP.
+        \n\n
+        <b>Reception</b>
+        \n
+        The level design and combat were praised. The writing was considered one of the game\'s highlights. The flat, paper-like art style was enjoyed, as well as the soundtrack. The main criticism revolved around difficulty controlling Vi\'s Beemerang in the overworld to solve puzzles, which was exacerbated by the unchanging camera angle.
+        The PC version received a score of 86/100 on reviews aggregation website Metacritic, and the Switch version received a score of 85/100. Nintendo Life gave the Switch version 8/10 stars, while Nintendo World Report gave it a 9.5/10 rating. RPGamer rated the game 4/5, and TouchArcade gave it a 4.5/5 score.
+        \n\n
+        <b>Steam Page</b>
+        \n
+        https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/
+</string>
+</resources>
