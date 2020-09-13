@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Bug Fables Protagonists</string>
+    <string name="button_one">Text One</string>
+    <string name="button_two">Text Two</string>
+    <string name="button_three">Text Three</string>
+    <string name="activity2_name">Protagonist</string>
+    <string name="article_text">
+        <b>Kabbu</b> is one of the three protagonists in Bug Fables: The Everlasting Sapling. He is the initial member of the party, and thus the leader of Team Snakemouth.
+        As such it can be argued that he is the main protagonist.
+        \n\n
+        <b>Appearance</b>
+        \n
+        As he is the only rainbow scarab beetle to appear in the game, it is unknown how many similarities he has to the rest of his species.
+        He is primarily emerald green with a grey torso and large dark green wings that he uses mainly as a cape. On his shoulders are a pair of white pincers and atop his head is a large green horn.
+        \n\n
+        <b>Personality</b>
+        \n
+        Kabbu is level-headed, chivalrous and brave. As a \"Veteran of the North\", he is also knowledgeable in combat and survival skills. He is also shown to be extremely loyal to those he cares about, as he traveled all the way to Bugaria to fulfill a promise he made to someone.
+        Despite his good heart and intentions, he is quite talkative to the point where Vi has asked him to stop. Regardless, he is respected by his teammates and is proud of his position as the leader of Team Snakemouth.
+        \n\n
+        <b>Abilities</b>
+        \n
+        In the field, Kabbu is able to use his horn to hit switches, cut bushes and attack enemies. It was revealed in the v0.6 Quick Update video that he would eventually learn the ability to dig underground to bypass obstacles.
+        In battle, Kabbu acts as the party\'s primary attacker, having the highest base HP of any character. He is able to pierce enemy defenses, flip certain enemies to lower their defense and deals 1 extra damage to cold enemies, but is unable to hit flying enemies or enemies at the back.
+        He can taunt foes to target him while an ally recovers or charges up, and ram through all enemies on the ground.
+        \n
+    </string>
+    <string name="article_text_Vi">
+        <b>Violet \"Vi\"</b> is one of the three protagonists in Bug Fables: The Everlasting Sapling. She is the second member to join Team Snakemouth. She has a sister called Jaune.
+        \n\n
+        <b>Appearance</b>
+        \n
+        Like most bees, her body is primarily yellow with black stripes. Around her neck is a fluffy cream-colored collar and on the end of her abdomen is a black stinger.
+        She also has a pair of translucent wings on her back for limited flight capabilities. What sets her apart from other honeybees is her rather short stature, which often causes others to mistake her for a child.
+        \n\n
+        <b>Personality</b>
+        \n
+        Vi is loud, sarcastic, arrogant and selfish, having wanted to enter Snakemouth Den at the beginning of the game for her own personal gain. She is also shown to be somewhat cowardly, as when the Spider appears for the first time, she abandons Kabbu.
+        She does however care for her friends and is perfectly capable of tolerating them, even when they end up annoying her. She is also very greedy as shown during many quests, where she often asks for a reward after completion.
+        Unlike most bees, she isn\'t snobbish and uptight. She dislikes bees who act as such.
+        \n\n
+        <b>Abilities</b>
+        \n
+        On the field, Vi is able to hit switches, grab items and attack enemies that are far away using her trusty Beemerang and eventually even carry party members while flying to cross large gaps.
+        This makes her arguably the most useful and flexible party member. In battle, she acts as the party\'s long-range support. She is able to hit any enemy from any position using her Beemerang, and is also able to generate a minor healing item at the cost of TP.
+        Using her Beemerang, she can knock down flying enemies so that Kabbu and Leif may hit them with their basic attacks.
+        \n
+    </string>
+    <string name="article_text_Leif">
+        <b>Leif</b> is one of the three protagonists in Bug Fables: The Everlasting Sapling. He is the third and final member to join Team Snakemouth.
+        \n\n
+        <b>Appearance</b>
+        \n
+        Unlike most moths, his head, torso, limbs and abdomen are coloured cyan blue. He has navy blue wings with gold highlights that he uses as a cloak of sorts over his body, as well as a fluffy gold collar around his neck.
+        Like most bugs, he has a pair of black antennae atop his head. When Leif was alive, he was red instead of blue, and his eyes were a brown color, instead of white
+        \n\n
+        <b>Personality</b>
+        \n
+        Leif presents himself as well-mannered and polite, speaking in a royal \"We\" instead of using \"I\". He is also known to be knowledgeable and intelligent, as he suggests several means of traversing Snakemouth Den.
+        However, he is also quite blunt and often inconsiderate of the feelings of others, as exemplified in the demo when he suggests to Kina the possibility that her brother, Maki, left her to get some space from her.
+        Despite this bluntness, he is shown to be loyal to those he trusts, namely Team Snakemouth. He is also seen to have a weak spot towards domesticated bugs like Aphids or even towards smaller characters such as Tanjerin, often calling them \"cute\". His stoic facade however is known to have a single, gigantic weakness.
+        \n\n
+        <b>Abilities</b>
+        \n
+        Due to strange circumstances surrounding his time in the magic-drenched Snakemouth Den, Leif is able to utilize ice magic. In the field, Leif can freeze water to form paths and platforms as well as freeze enemies to bounce around and use to solve puzzles.
+        He can also create a shield that protects the party from hazards, and the shield can first strike an enemy in the overworld when they make contact, eventually he also learns to hover by carrying himself (and any other followers if present) on a block of ice, but he only does this to follow Vi when she flies as the party leader.
+        In battle, Leif acts as the party\'s mage. He is able to freeze enemies for a short period of time and deals 1 extra damage against plant-like enemies.
+        Upon hitting a frozen enemy, it will deal extra damage. He is also able to increase the damage or defense to the party or decrease enemies\' damage or defense. He owns the most move medals in the game.
+        \n
+    </string>
+</resources>
